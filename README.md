@@ -1,6 +1,6 @@
 # Capstone Project: Covid-19 Crisis
 
-'notebook.ipynb' is the notebook of the project.
+'CapstoneProject.ipynb' is the notebook of the project.
 
 Written in Python 3.12.3.
 Libraries used in the notebook: Matplotlib(3.8.4), Pandas(2.2.1), NumPy(1.26.4), Seaborn(0.12.2).
